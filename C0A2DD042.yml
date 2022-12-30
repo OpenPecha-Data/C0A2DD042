@@ -10,7 +10,7 @@ Collection:
 - Title(str)
 - Alt titltes(list(str))
 - author(list(str))
-- bdrc_word_id(str)
+- bdrc_work_id(str)
 - pecha(list(instance_obj))
   - A#
   - A#
