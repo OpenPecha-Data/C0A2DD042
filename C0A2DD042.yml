@@ -6,4 +6,16 @@ Views:
     - description
     - serializer
 Collection:
-- <list similar to works>
+- ID(str)
+- Title(str)
+- Alt titltes(list(str))
+- author(list(str))
+- bdrc_word_id(str)
+- pecha(list(instance_obj))
+  - A#
+  - A#
+  - A#
+  - A#
+  - A#
+  - A#
+  - A#
