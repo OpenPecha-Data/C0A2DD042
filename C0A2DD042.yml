@@ -1,3 +1,5 @@
 Views:
-
+- view1, serializer
+- view2, serializer
 Collection:
+- list similar to works
