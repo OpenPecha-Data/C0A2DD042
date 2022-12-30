@@ -1,5 +1,9 @@
 Views:
-- view1, serializer
-- view2, serializer
+- text-pairs:
+    - description
+    - serializer
+- tmx: 
+    - description
+    - serializer
 Collection:
-- list similar to works
+- <list similar to works>
