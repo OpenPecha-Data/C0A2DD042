@@ -2,7 +2,7 @@
 
 This corpus contains all the multilingual texts aligned to Tibetan texts (bo) at the sentence-level.  
 
-**Overview**
+## Overview
 - **44,644** Tibetan segments 
 - **2,600** files 
 - Sources: [Lotsawa House](https://www.lotsawahouse.org/), ...
@@ -12,7 +12,8 @@ This corpus contains all the multilingual texts aligned to Tibetan texts (bo) at
 |:------------:|:------:|:-----:|:-----:|:-----:|:---:|:---:|:-----:|:---:|
 | Segment pairs     | 44,644 | 2,149 | 4,928 | 3,150 | 570 | 442 | 1,635 | 901 |
 
-**Formats**
+## File Format
+The corpus is available in the following formats:
 - [plain text pairs](<link to the directory>) in .txt format ([see detailed catalog](<link to catalog>))
 - [TM files](<link to the directory>) in .tmx format ([see detailed catalog](<link to catalog>)). 
 _Contact us [here]() if you need a different format_
