@@ -4,8 +4,8 @@
 This corpus contains all the multilingual texts aligned at the sentence-level.  
 
 This corpus is available in two formats:
-- plain text pairs in .txt format (see detailed catalog)
-- TM files in .tmx format (see detailed catalog). 
+- plain text pairs in .txt format ([see detailed catalog]())
+- TM files in .tmx format ([see detailed catalog]()). 
 
 |  | OpenPecha Parallel Corpus |
 | --- | --- |
