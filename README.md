@@ -16,7 +16,7 @@ This corpus contains all the multilingual texts aligned to Tibetan texts (bo) at
 The corpus is available in the following formats:
 - [plain text pairs](<link to the directory>) in .txt format ([see detailed catalog](<link to catalog>))
 - [TM files](<link to the directory>) in .tmx format ([see detailed catalog](<link to catalog>)). 
-_Contact us [here]() if you need a different format_
+_Contact us [here](<link to issue at a place TBD>) if you need a different format_
 
 
 
