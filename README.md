@@ -16,7 +16,7 @@ This corpus is available in two formats:
 |Languages: |<table><thead><tr><th>en</th><th>bo</th><th>es</th><th>fr</th><th>de</th><th>it</th><th>nl</th><th>zh</th><th>pt</th></tr></thead><tbody><tr><td>44,644</td><td>44,644</td><td>2,149</td><td>4,928</td><td>3,150</td><td>570</td><td>442</td><td>1,635</td><td>901</td></tr></tbody></table> |
 
 
-## Datasets Details
+## Data Breakdown
 
 |  | Lotsawa House |
 | --- | --- |
