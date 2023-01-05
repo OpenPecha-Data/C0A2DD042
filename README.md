@@ -1,14 +1,8 @@
 # OpenPecha Parallel Corpus
 
-## Description
 This corpus contains all the multilingual texts aligned to Tibetan texts (bo) at the sentence-level.  
 
-This corpus is made available in two formats:
-- plain text pairs in .txt format ([see detailed catalog]())
-- TM files in .tmx format ([see detailed catalog]()). 
-_Contact us [here]() if you need a different format_
-
-General stats:
+**Overview**
 - **44,644** Tibetan segments 
 - **2,600** files 
 - Sources: [Lotsawa House](https://www.lotsawahouse.org/), ...
@@ -17,6 +11,13 @@ General stats:
 | Languages |   bo-en   |   bo-es  |   bo-fr  |   bo-de  |  bo-it |  bo-nl |   bo-zh  |  bo-pt |
 |:------------:|:------:|:-----:|:-----:|:-----:|:---:|:---:|:-----:|:---:|
 | Segment pairs     | 44,644 | 2,149 | 4,928 | 3,150 | 570 | 442 | 1,635 | 901 |
+
+**Formats**
+- [plain text pairs](<link to the directory>) in .txt format ([see detailed catalog](<link to catalog>))
+- [TM files](<link to the directory>) in .tmx format ([see detailed catalog](<link to catalog>)). 
+_Contact us [here]() if you need a different format_
+
+
 
 ## Data Breakdown
 
