@@ -5,8 +5,7 @@ This corpus contains all the multilingual texts aligned to Tibetan texts (bo) at
 ## Overview
 - **44,644** Tibetan segments 
 - **2,600** files 
-- Sources: [Lotsawa House](https://www.lotsawahouse.org/), ...
-- Layers: **Base** + `Segments`
+- Files from [Lotsawa House](https://www.lotsawahouse.org/), ...
 
 | Languages: |   bo-en   |   bo-es  |   bo-fr  |   bo-de  |  bo-it |  bo-nl |   bo-zh  |  bo-pt |
 |:------------:|:------:|:-----:|:-----:|:-----:|:---:|:---:|:-----:|:---:|
