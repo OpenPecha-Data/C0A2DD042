@@ -1,20 +1,22 @@
 # OpenPecha Parallel Corpus
 
 ## Description
-This corpus contains all the multilingual texts aligned at the sentence-level.  
+This corpus contains all the multilingual texts aligned to Tibetan texts (bo) at the sentence-level.  
 
-This corpus is available in two formats:
+This corpus is made available in two formats:
 - plain text pairs in .txt format ([see detailed catalog]())
 - TM files in .tmx format ([see detailed catalog]()). 
+_Contact us [here]() if you need a different format_
 
-|  | OpenPecha Parallel Corpus |
-| --- | --- |
-|Segments: | 44,644 |
-|Files: | 2,600 |
-|Sources: | [Lotsawa House](https://www.lotsawahouse.org/), ...
-|Layers: | Base + Segments |
-|Languages: |<table><thead><tr><th>en</th><th>bo</th><th>es</th><th>fr</th><th>de</th><th>it</th><th>nl</th><th>zh</th><th>pt</th></tr></thead><tbody><tr><td>44,644</td><td>44,644</td><td>2,149</td><td>4,928</td><td>3,150</td><td>570</td><td>442</td><td>1,635</td><td>901</td></tr></tbody></table> |
+General stats:
+- **44,644** Tibetan segments 
+- **2,600** files 
+- Sources: [Lotsawa House](https://www.lotsawahouse.org/), ...
+- Layer composition: **Base** + `Segments`
 
+| Languages |   bo-en   |   bo-es  |   bo-fr  |   bo-de  |  bo-it |  bo-nl |   bo-zh  |  bo-pt |
+|:------------:|:------:|:-----:|:-----:|:-----:|:---:|:---:|:-----:|:---:|
+| Segment pairs     | 44,644 | 2,149 | 4,928 | 3,150 | 570 | 442 | 1,635 | 901 |
 
 ## Data Breakdown
 
