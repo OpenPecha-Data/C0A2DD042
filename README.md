@@ -43,8 +43,16 @@ _Contact us [here](<link to issue at a place TBD>) if you need a different forma
 |No of aligned segment | 132601 |
 |Accession Date | 2018-09-26T07:14:13.428Z |
 |Features | Base Layer,Segment Layer |
-|Segment Count |<table><thead><tr><th>bo</th><th>en</th></tr></thead><tbody><tr><td>132601</td><td>132601</td></tr></tbody></table> |
 
+| Languages: |   bo-en   | 
+|:------------:|:------:|
+| Segments:     | 1,32,601 |
+
+
+## Coming Soon
+
+- **700** Files from [Lotswa House](https://www.lotsawahouse.org/)
+- **87** Files from [Oslo](https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2)
 
 
 
