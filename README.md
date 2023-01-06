@@ -3,8 +3,8 @@
 This corpus contains all the multilingual texts aligned to Tibetan texts (bo) at the sentence-level.  
 
 ## Overview
-- **44,644** Tibetan segments 
-- **2,600** files 
+- **2,08,736** Tibetan segments 
+- **4,611** files 
 - Files from [Lotsawa House](https://www.lotsawahouse.org/), ...
 
 | Languages: |   bo-en   |   bo-es  |   bo-fr  |   bo-de  |  bo-it |  bo-nl |   bo-zh  |  bo-pt |
@@ -24,11 +24,11 @@ _Contact us [here](<link to issue at a place TBD>) if you need a different forma
 ### Lotsawa House
 | Source: | https://www.lotsawahouse.org/ |
 | --- | --- |
-|Pairs: | 44,644 | 
-|Files: | 2,600 |
+|Pairs: | 76,135 | 
+|Files: | 4,405 |
 |Accessed on: | 2023-01-04 12:44:15.146037 |
-|Crawler: | <script link> |
-|Parser: | <script link> |
+|Crawler: | [LH Crawler](https://github.com/jungtop/lotsawa_house_parser/blob/master/parser_v2.py) |
+|Parser: | [LH Parser](https://github.com/jungtop/lotsawa_house_parser/blob/master/parser_v2.py) |
 |Layers: | **Base** + `Segments` |
 
 | Languages: |   bo-en   |   bo-es  |   bo-fr  |   bo-de  |  bo-it |  bo-nl |   bo-zh  |  bo-pt |
@@ -39,10 +39,12 @@ _Contact us [here](<link to issue at a place TBD>) if you need a different forma
 
 |Source | https://read.84000.co/ |
 | --- | --- |
-|No of text | 206 |
-|No of aligned segment | 132601 |
-|Accession Date | 2018-09-26T07:14:13.428Z |
-|Features | Base Layer,Segment Layer |
+|Pairs | 132601 |
+|Files | 206 |
+|Accessed On | 2018-09-26T07:14:13.428Z |
+|Crawler: | [TMX Crawler](https://github.com/OpenPecha/Toolkit/blob/master/openpecha/alignment/tmx/create_opf.py) |
+|Parser: | [TMX Parser](https://github.com/OpenPecha/Toolkit/blob/master/openpecha/alignment/tmx/create_opf.py) |
+|Layers | **Base** + `Segments` |
 
 | Languages: |   bo-en   | 
 |:------------:|:------:|
