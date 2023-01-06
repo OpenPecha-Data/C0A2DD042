@@ -9,7 +9,7 @@ This corpus contains all the multilingual texts aligned to Tibetan texts (bo) at
 
 | Languages: |   bo-en   |   bo-es  |   bo-fr  |   bo-de  |  bo-it |  bo-nl |   bo-zh  |  bo-pt |
 |:------------:|:------:|:-----:|:-----:|:-----:|:---:|:---:|:-----:|:---:|
-| Segments:     | 44,644 | 2,149 | 4,928 | 3,150 | 570 | 442 | 1,635 | 901 |
+| Segments:     | 2,08,736 | 3,481 | 8,971 | 5,892 | 1,129 | 889 | 2,573 | 2018 |
 
 ## File Format
 The corpus is available in the following formats:
@@ -33,7 +33,7 @@ _Contact us [here](<link to issue at a place TBD>) if you need a different forma
 
 | Languages: |   bo-en   |   bo-es  |   bo-fr  |   bo-de  |  bo-it |  bo-nl |   bo-zh  |  bo-pt |
 |:------------:|:------:|:-----:|:-----:|:-----:|:---:|:---:|:-----:|:---:|
-| Segments:     | 44,644 | 2,149 | 4,928 | 3,150 | 570 | 442 | 1,635 | 901 |
+| Segments:     | 76,135 | 3,481 | 8,971 | 5,892 | 1,129 | 889 | 2,573 | 2018 |
 
 ### 84000-translation-memory
 
