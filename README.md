@@ -53,8 +53,8 @@ _Contact us [here](<link to issue at a place TBD>) if you need a different forma
 
 ## Coming Soon
 
-- **700** Files from [Lotswa House](https://www.lotsawahouse.org/)
-- **87** Files from [Oslo](https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2)
+- **700** more texts from [Lotsawa House](https://www.lotsawahouse.org/)
+- **87** texts from [Oslo](https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2)
 
 
 
