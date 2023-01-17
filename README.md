@@ -1,4 +1,4 @@
-# OpenPecha Parallel Corpus
+# Open Parallel Corpus
 
 This corpus contains all the multilingual texts aligned to Tibetan texts (bo) at the sentence-level.  
 
