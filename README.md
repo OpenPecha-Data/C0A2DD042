@@ -11,9 +11,18 @@ This corpus contains all the multilingual texts aligned to Tibetan texts (bo) at
 |:------------:|:------:|:-----:|:-----:|:-----:|:---:|:---:|:-----:|:---:|
 | Segments:     | 2,08,736 | 3,481 | 8,971 | 5,892 | 1,129 | 889 | 2,573 | 2018 |
 
-## Formats
-The corpus is available in the following formats:
-1. [Plain text pairs](<link to the directory>) in .txt format ([see detailed catalog](<link to catalog>))
+### View 1 - Plain text pairs
+
+Who it's for
+
+What it is
+
+How to use
+
+[Plain text pairs](<link to the directory>) in .txt format ([see detailed catalog](<link to catalog>))
+
+### View 2 - TMs
+
 1. [TM files](<link to the directory>) in .tmx format ([see detailed catalog](<link to catalog>)). 
 _Contact us [here](<link to issue at a place TBD>) if you need a different format_
 
