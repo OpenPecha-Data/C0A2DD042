@@ -83,7 +83,7 @@ This data can be fed into machine translation training pipelines such as using t
 
 1. [TM files](https://github.com/OpenPecha-Data/C0A2DD042/tree/main/tmx) in .tmx format ([see detailed catalog](https://github.com/OpenPecha-Data/C0A2DD042/blob/main/tmx-catalog.csv)). 
 
-> **Note**: Contact us [here](<link to issue at a place TBD>) if you need a different format
+> **Note**: If you need a different format, check the <a href="#how-to-get-help">how to get help</a> section below.
 
 ## Dataset breakdown
 
@@ -120,7 +120,7 @@ A list of included texts can be found [here](https://github.com/OpenPecha-Data/C
 
 A list of included texts can be found [here](https://github.com/OpenPecha-Data/C0A2DD042/blob/main/text-pairs-catalog.csv).
 
-## Coming Soon
+## Coming soon
 
 - **700** more texts from [Lotsawa House](https://www.lotsawahouse.org/)
 - **87** texts from [Oslo](https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2)
@@ -132,8 +132,8 @@ A list of included texts can be found [here](https://github.com/OpenPecha-Data/C
 
 ## How to get help
 * Email us at openpecha[at]gmail.com.
-* Join our [discord](https://discord.com/invite/7GFpPFSTeA).
-* File an [issue](/issue).
+* Join our [Discord](https://discord.com/invite/7GFpPFSTeA).
+* File an issue.
 
 ## Terms of use
-This corpus is licensed under the [MIT License](/LICENSE.md).
+This corpus is provided by OpenPecha under the [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/)
