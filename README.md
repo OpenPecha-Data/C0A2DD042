@@ -81,9 +81,20 @@ This data can be fed into machine translation training pipelines such as using t
 
 ### View 2 - TMs
 
-1. [TM files](https://github.com/OpenPecha-Data/C0A2DD042/tree/main/tmx) in .tmx format ([see detailed catalog](https://github.com/OpenPecha-Data/C0A2DD042/blob/main/tmx-catalog.csv)). 
+#### What it is
+
+[TM files](https://github.com/OpenPecha-Data/C0A2DD042/tree/main/tmx) in .tmx format ([see detailed catalog](https://github.com/OpenPecha-Data/C0A2DD042/blob/main/tmx-catalog.csv)). 
 
 > **Note**: If you need a different format, check the <a href="#how-to-get-help">how to get help</a> section below.
+
+#### Who it's for
+
+View 2 is intended for developers who want to train a translation model.
+
+**How to use it**
+
+This data can be fed into machine translation training pipelines such as using this and that.
+
 
 ## Dataset breakdown
 
@@ -136,4 +147,4 @@ A list of included texts can be found [here](https://github.com/OpenPecha-Data/C
 * File an issue.
 
 ## Terms of use
-This corpus is provided by OpenPecha under the [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/)
+This corpus is provided by OpenPecha under the [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
