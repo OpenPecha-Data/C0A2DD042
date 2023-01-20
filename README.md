@@ -11,15 +11,13 @@ This corpus contains a growing collection of multilingual texts aligned to Tibet
 |:------------:|:------:|:-----:|:-----:|:-----:|:---:|:---:|:-----:|:---:|
 | Segments:     | 2,08,736 | 3,481 | 8,971 | 5,892 | 1,129 | 889 | 2,573 | 2018 |
 
-A list of included texts can be found in the corpus's [text pairs catalog](https://github.com/OpenPecha-Data/C0A2DD042/blob/main/text-pairs-catalog.csv).
-
 ## Table of contents
 <p align="center">
   <a href="#detailed-content-description">Detailed content description</a> •
-  <a href="#file-structure">File structure</a> •
+  <a href="#views">Views</a> •
   <a href="#coming-soon">Coming soon</a> •
-  <a href="#questions-about-this-collection">Questions?</a> •
-  <a href="#acknowledgementse">Acknowledgements</a> •
+  <a href="#questions-about-this-collection">Help</a> •
+  <a href="#acknowledgments">Acknowledgments</a> •
   <a href="#terms-of-use">Terms of use</a>
 </p>
 
@@ -56,7 +54,7 @@ A list of included texts can be found in the corpus's [text pairs catalog](https
 |:------------:|:------:|
 | Segments:     | 1,32,601 |
 
-## File structure
+## Views
 
 This collection presents the same data in two views: text pairs and TMs.
 
