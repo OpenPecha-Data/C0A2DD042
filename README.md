@@ -15,13 +15,46 @@ A list of included texts can be found in the corpus's [text pairs catalog](https
 
 ## Table of contents
 <p align="center">
-  <a href="#file-structure">File structure</a> •
   <a href="#detailed-content-description">Detailed content description</a> •
+  <a href="#file-structure">File structure</a> •
   <a href="#coming-soon">Coming soon</a> •
-  <a href="#questions-about-this-collection">Questions about this collection?</a> •
+  <a href="#questions-about-this-collection">Questions?</a> •
   <a href="#acknowledgementse">Acknowledgements</a> •
   <a href="#terms-of-use">Terms of use</a>
 </p>
+
+## Detailed content description
+
+### Lotsawa House
+| Source: | https://www.lotsawahouse.org/ |
+| --- | --- |
+|Pairs: | 76,135 | 
+|Files: | 4,405 |
+|Accessed on: | 2023-01-04 12:44:15.146037 |
+|Crawler: | [LH Crawler](https://github.com/jungtop/lotsawa_house_parser/blob/master/parser_v2.py) |
+|Parser: | [LH Parser](https://github.com/jungtop/lotsawa_house_parser/blob/master/parser_v2.py) |
+|Layers: | **Base** + `Segments` |
+|Included texts: |[See text pairs catalog](/text-pairs-catalog.csv)|
+
+| Languages: |   bo-en   |   bo-es  |   bo-fr  |   bo-de  |  bo-it |  bo-nl |   bo-zh  |  bo-pt |
+|:------------:|:------:|:-----:|:-----:|:-----:|:---:|:---:|:-----:|:---:|
+| Segments:     | 76,135 | 3,481 | 8,971 | 5,892 | 1,129 | 889 | 2,573 | 2018 |
+
+### 84000-translation-memory
+
+|Source | https://read.84000.co/ |
+| --- | --- |
+|Pairs | 132601 |
+|Files | 206 |
+|Accessed On | 2018-09-26T07:14:13.428Z |
+|Crawler: | [TMX Crawler](https://github.com/OpenPecha/Toolkit/blob/master/openpecha/alignment/tmx/create_opf.py) |
+|Parser: | [TMX Parser](https://github.com/OpenPecha/Toolkit/blob/master/openpecha/alignment/tmx/create_opf.py) |
+|Layers | **Base** + `Segments` |
+|Included texts: |[See text pairs catalog](/text-pairs-catalog.csv)|
+
+| Languages: |   bo-en   | 
+|:------------:|:------:|
+| Segments:     | 1,32,601 |
 
 ## File structure
 
@@ -94,39 +127,6 @@ View 2 is intended for developers who want to train a translation model.
 **How to use it**
 
 This data can be fed into machine translation training pipelines such as using this and that.
-
-## Detailed content description
-
-### Lotsawa House
-| Source: | https://www.lotsawahouse.org/ |
-| --- | --- |
-|Pairs: | 76,135 | 
-|Files: | 4,405 |
-|Accessed on: | 2023-01-04 12:44:15.146037 |
-|Crawler: | [LH Crawler](https://github.com/jungtop/lotsawa_house_parser/blob/master/parser_v2.py) |
-|Parser: | [LH Parser](https://github.com/jungtop/lotsawa_house_parser/blob/master/parser_v2.py) |
-|Layers: | **Base** + `Segments` |
-|Included texts: |[See text pairs catalog](/text-pairs-catalog.csv)|
-
-| Languages: |   bo-en   |   bo-es  |   bo-fr  |   bo-de  |  bo-it |  bo-nl |   bo-zh  |  bo-pt |
-|:------------:|:------:|:-----:|:-----:|:-----:|:---:|:---:|:-----:|:---:|
-| Segments:     | 76,135 | 3,481 | 8,971 | 5,892 | 1,129 | 889 | 2,573 | 2018 |
-
-### 84000-translation-memory
-
-|Source | https://read.84000.co/ |
-| --- | --- |
-|Pairs | 132601 |
-|Files | 206 |
-|Accessed On | 2018-09-26T07:14:13.428Z |
-|Crawler: | [TMX Crawler](https://github.com/OpenPecha/Toolkit/blob/master/openpecha/alignment/tmx/create_opf.py) |
-|Parser: | [TMX Parser](https://github.com/OpenPecha/Toolkit/blob/master/openpecha/alignment/tmx/create_opf.py) |
-|Layers | **Base** + `Segments` |
-|Included texts: |[See text pairs catalog](/text-pairs-catalog.csv)|
-
-| Languages: |   bo-en   | 
-|:------------:|:------:|
-| Segments:     | 1,32,601 |
 
 ## Coming soon
 
