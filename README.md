@@ -2,7 +2,7 @@
 
 This corpus contains a growing collection of multilingual texts aligned to Tibetan texts (bo) at the sentence level. 
 
-## Current total stats
+## Content summary
 - **2,08,736** Tibetan segments 
 - **4,611** files 
 - Files from [Lotsawa House](https://www.lotsawahouse.org/) and [84,000](https://read.84000.co/)
@@ -11,21 +11,21 @@ This corpus contains a growing collection of multilingual texts aligned to Tibet
 |:------------:|:------:|:-----:|:-----:|:-----:|:---:|:---:|:-----:|:---:|
 | Segments:     | 2,08,736 | 3,481 | 8,971 | 5,892 | 1,129 | 889 | 2,573 | 2018 |
 
-A list of all included texts can be found in the corpus's [text pairs catalog](https://github.com/OpenPecha-Data/C0A2DD042/blob/main/text-pairs-catalog.csv).
+A list of included texts can be found in the corpus's [text pairs catalog](https://github.com/OpenPecha-Data/C0A2DD042/blob/main/text-pairs-catalog.csv).
 
 ## Table of contents
 <p align="center">
-  <a href="#views">Views</a> •
-  <a href="#dataset-breakdown">Dataset breakdown</a> •
+  <a href="#file-structure">File structure</a> •
+  <a href="#detailed-content-description">Detailed content description</a> •
   <a href="#coming-soon">Coming soon</a> •
-  <a href="#corpus-owners">Corpus owners</a> •
-  <a href="#how-to-get-help">How to get help</a> •
+  <a href="#questions-about-this-collection">Questions about this collection?</a> •
+  <a href="#acknowledgementse">Acknowledgements</a> •
   <a href="#terms-of-use">Terms of use</a>
 </p>
 
-## Views
+## File structure
 
-This collection contains two views of the same data: one for text pairs and one for TMs.
+This collection presents the same data in two views: text pairs and TMs.
 
 ### View 1 - Text pairs
 
@@ -95,8 +95,7 @@ View 2 is intended for developers who want to train a translation model.
 
 This data can be fed into machine translation training pipelines such as using this and that.
 
-
-## Dataset breakdown
+## Detailed content description
 
 ### Lotsawa House
 | Source: | https://www.lotsawahouse.org/ |
@@ -107,12 +106,11 @@ This data can be fed into machine translation training pipelines such as using t
 |Crawler: | [LH Crawler](https://github.com/jungtop/lotsawa_house_parser/blob/master/parser_v2.py) |
 |Parser: | [LH Parser](https://github.com/jungtop/lotsawa_house_parser/blob/master/parser_v2.py) |
 |Layers: | **Base** + `Segments` |
+|Included texts: |[See text pairs catalog](/text-pairs-catalog.csv)|
 
 | Languages: |   bo-en   |   bo-es  |   bo-fr  |   bo-de  |  bo-it |  bo-nl |   bo-zh  |  bo-pt |
 |:------------:|:------:|:-----:|:-----:|:-----:|:---:|:---:|:-----:|:---:|
 | Segments:     | 76,135 | 3,481 | 8,971 | 5,892 | 1,129 | 889 | 2,573 | 2018 |
-
-A list of included texts can be found [here](https://github.com/OpenPecha-Data/C0A2DD042/blob/main/text-pairs-catalog.csv).
 
 ### 84000-translation-memory
 
@@ -124,27 +122,29 @@ A list of included texts can be found [here](https://github.com/OpenPecha-Data/C
 |Crawler: | [TMX Crawler](https://github.com/OpenPecha/Toolkit/blob/master/openpecha/alignment/tmx/create_opf.py) |
 |Parser: | [TMX Parser](https://github.com/OpenPecha/Toolkit/blob/master/openpecha/alignment/tmx/create_opf.py) |
 |Layers | **Base** + `Segments` |
+|Included texts: |[See text pairs catalog](/text-pairs-catalog.csv)|
 
 | Languages: |   bo-en   | 
 |:------------:|:------:|
 | Segments:     | 1,32,601 |
-
-A list of included texts can be found [here](https://github.com/OpenPecha-Data/C0A2DD042/blob/main/text-pairs-catalog.csv).
 
 ## Coming soon
 
 - **700** more texts from [Lotsawa House](https://www.lotsawahouse.org/)
 - **87** texts from [Oslo](https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2)
 
-## Corpus owners
-
-- [@jungtop](https://github.com/jungtop)
-- [@ngawangtrinley](https://github.com/ngawangtrinley)
-
-## How to get help
+## Questions about this collection?
 * Email us at openpecha[at]gmail.com.
 * Join our [Discord](https://discord.com/invite/7GFpPFSTeA).
 * File an issue.
 
+## Acknowledgments
+
+Thanks to the following organizations for providing data for this collection:
+
+![BDRC logo](https://user-images.githubusercontent.com/51434640/194739598-8a630a40-b83e-46cd-9f52-3f746db9864f.png)
+
+![Lotsawa House logo](https://user-images.githubusercontent.com/51434640/213625878-94b44c11-87f6-4fab-82d7-2a77d9e32547.png)
+
 ## Terms of use
-This corpus is provided by OpenPecha under the [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
+This corpus is provided by OpenPecha under the [CC0 Public Domain Dedication](/LICENSE.md).o/1.0/).
