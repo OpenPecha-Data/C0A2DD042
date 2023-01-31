@@ -145,4 +145,4 @@ Thanks to the following organizations for providing data for this collection:
 ![Lotsawa House logo](https://user-images.githubusercontent.com/51434640/213625878-94b44c11-87f6-4fab-82d7-2a77d9e32547.png)
 
 ## Terms of use
-This corpus is provided by OpenPecha under the [CC0 Public Domain Dedication](/LICENSE.md).o/1.0/).
+This corpus is provided by OpenPecha under the CC0 Public Domain Dedication v 1.0.
